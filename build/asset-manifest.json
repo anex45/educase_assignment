@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.978166f9.css",
+    "main.js": "/static/js/main.377821e4.js",
+    "static/js/453.704780c7.chunk.js": "/static/js/453.704780c7.chunk.js",
+    "static/media/hummingbird.jpg": "/static/media/hummingbird.b5e071a19cfc6dfc5020.jpg",
+    "index.html": "/index.html",
+    "main.978166f9.css.map": "/static/css/main.978166f9.css.map",
+    "main.377821e4.js.map": "/static/js/main.377821e4.js.map",
+    "453.704780c7.chunk.js.map": "/static/js/453.704780c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978166f9.css",
+    "static/js/main.377821e4.js"
+  ]
+}
